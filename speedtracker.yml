@@ -37,7 +37,7 @@
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-encryptionKey: "cf1d3af753f7cd7fb9342ef2a7a9"
+encryptionKey: "7edea9d8e9956d381a210ba0f2caf24d79f543ec19"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -50,7 +50,7 @@ encryptionKey: "cf1d3af753f7cd7fb9342ef2a7a9"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "f9563eb513a8c877e73474b6e1bf326883221302867d193d2a3638e249b84fc76f11"
+wptKey: "4895ad9aa9ca263f412d5afeb38ebc0a3da20ead5f01dd52cdadd4098c72ea7afcb2"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -69,13 +69,13 @@ wptKey: "f9563eb513a8c877e73474b6e1bf326883221302867d193d2a3638e249b84fc76f11"
 #alerts:
 #  emailAlert:
 #    type: "email"
-#    recipients: ["d91c35e94fdcd976b22632edfae134"]
+#    recipients: ["68dfa6c6f5be373e143f1ca5a8d0ba"]
 #  otherEmailAlert:
 #    type: "email"
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
 #  slackAlert:
 #    type: "slack"
-#    hookUrl: "d00c2cf052a6813cb83e2feda7a62230d2774118d07416276d6b78f515e31c852127ba96414e4d982b56881c0bbf7a5cf4c16bcedf56cbc658f4c2f46be958089418608e3c5b0fca8fe82c1531"
+#    hookUrl: "61cfbfdfe8c46f741e2701a5f597ac526cf75cb70908d2488af0941ed029b938b2849c4c6c2d952f20a41601795a470881decf34464e705d1fa0e95d9cf13098a0cf20e8d9fcb72ab6ac29845a"
 #    channel: "#status"
 #    username: "SpeedTrack"
 #    iconEmoji: ":grimacing:"
